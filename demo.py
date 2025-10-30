@@ -1,5 +1,11 @@
+"""This module provides a simple example function to add two numbers."""
+
 def myfunction():
-    a=4
-    b=6
-    return a+b
+    """Return the sum of two numbers."""
+    a = 4
+    b = 6
+    return a + b
+
+
 myfunction()
+
